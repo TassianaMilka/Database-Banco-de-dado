@@ -15,6 +15,9 @@ Olá a todos esse repositório vai ser destinado para armazenar tudo sobre Banco
 
 #  Summary in English
 
+Hello everyone, this repository is going to be intended to store everything about Database in which I perform for my learning.
+
+
 # --------------------------------------------------------------------------------------------------------------------------------
 
 
