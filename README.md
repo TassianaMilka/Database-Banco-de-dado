@@ -22,7 +22,8 @@ Hello everyone, this repository is going to be intended to store everything abou
 2.I made a comment to understand in Portuguese, if you don't understand, use a translator to help.
 # --------------------------------------------------------------------------------------------------------------------------------
 
-#   Spanish
+# Resumen en Español
+
 Hola a todos, este repositorio va a estar destinado a almacenar todo lo relacionado con la Base de Datos en la que me desenvuelvo para mi aprendizaje.
 
 1.Cada uno contiene una carpeta para identificar;
