@@ -11,7 +11,7 @@ Olá a todos esse repositório vai ser destinado para armazenar tudo sobre Banco
 
 2.Realizei conmentário para compreender em português,caso não entende utiliza um tradutor  no auxílio. 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#----------------------------------------------------------------
 
 
 (Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
