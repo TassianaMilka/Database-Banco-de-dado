@@ -17,7 +17,7 @@ Olá a todos esse repositório vai ser destinado para armazenar tudo sobre Banco
 
 Hello everyone, this repository is going to be intended to store everything about Database in which I perform for my learning.
 
-2. I made a comment to understand in Portuguese, if you don't understand, use a translator to help.
+2.I made a comment to understand in Portuguese, if you don't understand, use a translator to help.
 # --------------------------------------------------------------------------------------------------------------------------------
 
 
