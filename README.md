@@ -30,4 +30,7 @@ Hola a todos, este repositorio va a estar destinado a almacenar todo lo relacion
 
 2.Hice un comentario para entender en portugués, si no entiendes, usa un traductor para ayudarte.
 
+# --------------------------------------------------------------------------------------------------------------------------------
+
+
 (Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
