@@ -7,7 +7,7 @@ Olá a todos esse repositório vai ser destinado para armazenar tudo sobre Banco
 
 1.Cada um contém uma pasta para indentificar;
 
-2.Realizei contentario para compreender em português,caso não entende utiliza um tradutor  no auxílio. 
+2.Realizei conmentário para compreender em português,caso não entende utiliza um tradutor  no auxílio. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
