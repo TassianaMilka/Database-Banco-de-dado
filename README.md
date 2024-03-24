@@ -9,7 +9,6 @@ Olá a todos esse repositório vai ser destinado para armazenar tudo sobre Banco
 
 1.Cada um contém uma pasta para identificar;
 
-
 2.Realizei comentário para compreender em português,caso não entende utiliza um tradutor  no auxílio. 
 
 # --------------------------------------------------------------------------------------------------------------------------------
@@ -19,6 +18,7 @@ Olá a todos esse repositório vai ser destinado para armazenar tudo sobre Banco
 Hello everyone, this repository is going to be intended to store everything about Database in which I perform for my learning.
 
 1.Each contains a folder to identify;
+
 2.I made a comment to understand in Portuguese, if you don't understand, use a translator to help.
 # --------------------------------------------------------------------------------------------------------------------------------
 
