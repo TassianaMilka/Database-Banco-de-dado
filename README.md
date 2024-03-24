@@ -25,8 +25,8 @@ Hello everyone, this repository is going to be intended to store everything abou
 #   Spanish
 Hola a todos, este repositorio va a estar destinado a almacenar todo lo relacionado con la Base de Datos en la que me desenvuelvo para mi aprendizaje.
 
-1. Cada uno contiene una carpeta para identificar;
+1.Cada uno contiene una carpeta para identificar;
 
-2. Hice un comentario para entender en portugués, si no entiendes, usa un traductor para ayudarte.
+2.Hice un comentario para entender en portugués, si no entiendes, usa un traductor para ayudarte.
 
 (Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
