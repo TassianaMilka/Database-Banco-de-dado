@@ -7,7 +7,7 @@ Programming in Database(Banco de dado)
 
 Olá a todos esse repositório vai ser destinado para armazenar tudo sobre Banco de dado em que realizo para o meu aprendizagem.
 
-1.Cada um contém uma pasta para indentificar;
+1.Cada um contém uma pasta para identificar;
 
 2.Realizei conmentário para compreender em português,caso não entende utiliza um tradutor  no auxílio. 
 
