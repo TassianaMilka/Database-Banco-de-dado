@@ -33,4 +33,4 @@ Hola a todos, este repositorio va a estar destinado a almacenar todo lo relacion
 # --------------------------------------------------------------------------------------------------------------------------------
 
 
-(Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
+(Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)
