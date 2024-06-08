@@ -1,5 +1,5 @@
 # Database-Banco-de-dado
-Programming in Database(Banco de dado)
+Database(Banco de dado)
 
 # Summary in Portuguese,English and Spanish
 
