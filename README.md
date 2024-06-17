@@ -11,7 +11,7 @@ Olá a todos esse repositório vai ser destinado para armazenar tudo sobre Banco
 
 2.Realizei comentário para compreender em português,caso não entende utiliza um tradutor  no auxílio. 
 
-# --------------------------------------------------------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------------------------------------------------
 
 #  Summary in English
 
@@ -20,7 +20,7 @@ Hello everyone, this repository is going to be intended to store everything abou
 1.Each contains a folder to identify;
 
 2.I made a comment to understand in Portuguese, if you don't understand, use a translator to help.
-# --------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 # Resumen en Español
 
@@ -30,7 +30,7 @@ Hola a todos, este repositorio va a estar destinado a almacenar todo lo relacion
 
 2.Hice un comentario para entender en portugués, si no entiendes, usa un traductor para ayudarte.
 
-# --------------------------------------------------------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------------------------------------------------
 
 
 (Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)
